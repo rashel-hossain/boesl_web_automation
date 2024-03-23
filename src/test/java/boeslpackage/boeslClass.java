@@ -46,10 +46,6 @@ public class boeslClass {
         else {
             System.out.println("URL doesn't matched!");
         }
-        // second comment
-        //ygyu
-//        New change
-//        test new
 
     }
 }
